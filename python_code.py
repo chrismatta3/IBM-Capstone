@@ -1,6 +1,3 @@
-
-#!/usr/bin/python
-
 #Capstone Project Notebook
 
 
